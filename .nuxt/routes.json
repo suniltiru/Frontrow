@@ -1,0 +1,30 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\Frontrow\\\\Frontrow IP\\\\frontrow\\\\gitlab_backups\\\\frontrowdevs\\\\Website\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_100ddcd4"
+  },
+  {
+    "name": "denialevents",
+    "path": "/denialevents",
+    "component": "D:\\\\Frontrow\\\\Frontrow IP\\\\frontrow\\\\gitlab_backups\\\\frontrowdevs\\\\Website\\\\pages\\\\denialevents.vue",
+    "chunkName": "pages/denialevents",
+    "_name": "_bc0aaaf2"
+  },
+  {
+    "name": "privacy",
+    "path": "/privacy",
+    "component": "D:\\\\Frontrow\\\\Frontrow IP\\\\frontrow\\\\gitlab_backups\\\\frontrowdevs\\\\Website\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "_name": "_37a3e3d1"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Frontrow\\\\Frontrow IP\\\\frontrow\\\\gitlab_backups\\\\frontrowdevs\\\\Website\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_17b0ec5b"
+  }
+]

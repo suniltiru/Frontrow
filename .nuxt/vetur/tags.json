@@ -1,0 +1,29 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Header2": {
+    "description": "Auto imported from components/Header2.vue"
+  },
+  "HomeAlternatingFeatures": {
+    "description": "Auto imported from components/Home/AlternatingFeatures.vue"
+  },
+  "HomeGetInTouch": {
+    "description": "Auto imported from components/Home/GetInTouch.vue"
+  },
+  "HomeGradientFeatures": {
+    "description": "Auto imported from components/Home/GradientFeatures.vue"
+  },
+  "HomeHero": {
+    "description": "Auto imported from components/Home/Hero.vue"
+  },
+  "HomeLogoCloud": {
+    "description": "Auto imported from components/Home/LogoCloud.vue"
+  },
+  "HomeStats": {
+    "description": "Auto imported from components/Home/Stats.vue"
+  }
+}
